@@ -1,5 +1,8 @@
 # testeTecnico
 Um teste técnico que estava fazendo para a empresa Escribo.
+
+**pode se testar todos eles apenas colocando um valor em seus respectivos inputs ou mudando a variavel nos arquivos 😉**
+
 ## Para rodar os códigos basta:
 ## Em javascript apertar F8 no visual studio code que ele mostrará o resultado(precisa ter o node.js instalado).
 ## Em Dart basta rodar o codígo em um editor de texto, recomendo o visual studio.
